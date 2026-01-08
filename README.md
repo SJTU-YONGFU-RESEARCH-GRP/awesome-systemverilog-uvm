@@ -1,6 +1,6 @@
 # Awesome SystemVerilog UVM
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/)
 [![SystemVerilog](https://img.shields.io/badge/SystemVerilog-UVM-green.svg)](https://accellera.org/)
 
@@ -25,7 +25,7 @@ This repository serves as a centralized resource for SystemVerilog UVM verificat
 
 ```bash
 # Clone the repository with submodules
-git clone --recursive https://github.com/your-username/awesome-systemverilog-uvm.git
+git clone --recursive https://github.com/SJTU-YONGFU-RESEARCH-GRP/awesome-systemverilog-uvm.git
 cd awesome-systemverilog-uvm
 
 # Initialize submodules if not done during clone
@@ -104,20 +104,25 @@ awesome-systemverilog-uvm/
 
 ## 🎓 Learning Path
 
-### Beginner Level
-1. Start with **[UVM Primer](learnings/uvmprimer/)** for foundational concepts
-2. Explore **[Python4RTLVerification](learnings/Python4RTLVerification/)** for modern verification approaches
-3. Try the **[AXI examples](designs/uvm_axi/examples/)** to see UVM in action
+### 📖 Learning Materials
+1. **[UVM Primer](learnings/uvmprimer/)** - Foundational concepts and comprehensive tutorial series
+2. **[UVM Reference](learnings/UVMReference/)** - Official Accellera UVM implementation and documentation
+3. **[Learn UVM PyUVM](learnings/learn_uvm_pyuvm/)** - Integrated learning for both SystemVerilog UVM and PyUVM
+4. **[Python4RTLVerification](learnings/Python4RTLVerification/)** - Python techniques for RTL verification workflows
+5. **[FPGA Simulation](learnings/fpgasimulation/)** - FPGA-specific simulation methodologies and best practices
 
-### Intermediate Level
-1. Study the **[UVM Reference](learnings/UVMReference/)** implementation
-2. Learn **[PyUVM](learnings/learn_uvm_pyuvm/)** for Python-based verification
-3. Experiment with **[Cocotb](tools/cocotb/)** for advanced test scenarios
+### 🛠️ Development Tools
+1. **[Cocotb](tools/cocotb/)** - Python-based hardware verification framework with coroutine support
+2. **[PyUVM Analyzer](tools/pyuvm_analyzer/)** - Static analysis and optimization tools for PyUVM codebases
+3. **[PySystemVerilog Analyzer](tools/pysystemverilog_analyzer/)** - Advanced analysis tools for SystemVerilog verification code
+4. **[PyUVM SV-UVM Translator](tools/pyuvm_svuvm_translator/)** - Seamless translation between PyUVM and SystemVerilog UVM components
 
-### Advanced Level
-1. Use analysis tools (**[PyUVM Analyzer](tools/pyuvm_analyzer/)**, **[PySystemVerilog Analyzer](tools/pysystemverilog_analyzer/)**) for code optimization
-2. Leverage the **[Translator](tools/pyuvm_svuvm_translator/)** for cross-language development
-3. Build custom verification environments using the reference designs
+### 🎯 Reference Designs
+1. **[UVM AXI](designs/uvm_axi/)** - Complete AXI protocol verification environment with:
+   - AXI BFM with comprehensive protocol checking
+   - Virtual Master/Slave components
+   - Protocol validation and analysis ports
+   - Ready-to-run examples with Python automation
 
 ## 🤝 Contributing
 
@@ -137,7 +142,16 @@ We welcome contributions to enhance this verification ecosystem!
 
 ## 📄 License
 
-This repository contains multiple submodules with their own licenses. Please refer to each submodule's license file for specific terms.
+This repository is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made
+
+This repository contains multiple submodules with their own licenses. Please refer to each submodule's license file for specific terms regarding individual components.
 
 ## 🙏 Acknowledgments
 
@@ -149,9 +163,9 @@ This repository contains multiple submodules with their own licenses. Please ref
 
 ## 📞 Support
 
-- 📧 **Issues**: [GitHub Issues](https://github.com/your-username/awesome-systemverilog-uvm/issues)
+- 📧 **Issues**: [GitHub Issues](https://github.com/SJTU-YONGFU-RESEARCH-GRP/awesome-systemverilog-uvm/issues)
 - 📖 **Documentation**: Check individual submodule READMEs for detailed usage
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/your-username/awesome-systemverilog-uvm/discussions)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/SJTU-YONGFU-RESEARCH-GRPawesome-systemverilog-uvm/discussions)
 
 ---
 
