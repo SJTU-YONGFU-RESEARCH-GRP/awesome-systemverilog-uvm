@@ -1,0 +1,29 @@
+[submodule "tools/pysystemverilog_analyzer"]
+	path = tools/pysystemverilog_analyzer
+	url = git@github.com:SJTU-YONGFU-RESEARCH-GRP/pysystemverilog_analyzer.git
+[submodule "tools/pyuvm_analyzer"]
+	path = tools/pyuvm_analyzer
+	url = git@github.com:SJTU-YONGFU-RESEARCH-GRP/pyuvm_analyzer.git
+[submodule "tools/pyuvm_svuvm_translator"]
+	path = tools/pyuvm_svuvm_translator
+	url = git@github.com:SJTU-YONGFU-RESEARCH-GRP/pyuvm_svuvm_translator.git
+[submodule "tools/cocotb"]
+	path = tools/cocotb
+	url = git@github.com:cocotb/cocotb.git
+
+[submodule "learnings/learn_uvm_pyuvm"]
+	path = learnings/learn_uvm_pyuvm
+	url = git@github.com:SJTU-YONGFU-RESEARCH-GRP/learn_uvm_pyuvm.git
+[submodule "learnings/uvmprimer"]
+	path = learnings/uvmprimer
+	url = git@github.com:raysalemi/uvmprimer.git
+[submodule "learnings/fpgasimulation"]
+	path = learnings/fpgasimulation
+	url = git@github.com:raysalemi/fpgasimulation.git
+[submodule "learnings/UVMReference"]
+	path = learnings/UVMReference
+	url = git@github.com:VerificationExcellence/UVMReference.git
+
+[submodule "designs/uvm_axi"]
+	path = designs/uvm_axi
+	url = git@github.com:funningboy/uvm_axi.git

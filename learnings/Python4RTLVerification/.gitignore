@@ -1,0 +1,13 @@
+.idea
+__pycache__
+.ipynb_checkpoints
+scratch.ipynb
+*.json
+results.xml
+sim_build
+put.txt
+.tox
+modelsim.ini
+transcript
+*.egg-info
+*.code-workspace
