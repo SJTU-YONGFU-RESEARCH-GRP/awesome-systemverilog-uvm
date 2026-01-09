@@ -27,3 +27,15 @@
 [submodule "designs/uvm_axi"]
 	path = designs/uvm_axi
 	url = git@github.com:funningboy/uvm_axi.git
+[submodule "learnings/uvm"]
+	path = learnings/uvm
+	url = git@github.com:accellera/uvm.git
+[submodule "learnings/UVM-Examples"]
+	path = learnings/UVM-Examples
+	url = git@github.com:mayurkubavat/UVM-Examples.git
+[submodule "tools/uvm-verilator"]
+	path = tools/uvm-verilator
+	url = git@github.com:chipsalliance/uvm-verilator.git
+[submodule "designs/ethernet_10ge_mac_SV_UVM_tb"]
+	path = designs/ethernet_10ge_mac_SV_UVM_tb
+	url = git@github.com:andres-mancera/ethernet_10ge_mac_SV_UVM_tb.git
