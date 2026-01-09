@@ -39,3 +39,21 @@
 [submodule "designs/ethernet_10ge_mac_SV_UVM_tb"]
 	path = designs/ethernet_10ge_mac_SV_UVM_tb
 	url = git@github.com:andres-mancera/ethernet_10ge_mac_SV_UVM_tb.git
+[submodule "designs/Processor-UVM-Verification"]
+	path = designs/Processor-UVM-Verification
+	url = git@github.com:gupta409/Processor-UVM-Verification.git
+[submodule "learnings/uvm-core"]
+	path = learnings/uvm-core
+	url = git@github.com:accellera-official/uvm-core.git
+[submodule "designs/AHB2"]
+	path = designs/AHB2
+	url = git@github.com:GodelMachine/AHB2.git
+[submodule "designs/combinator-uvm"]
+	path = designs/combinator-uvm
+	url = git@github.com:doswellf/combinator-uvm.git
+[submodule "designs/core-v-verif"]
+	path = designs/core-v-verif
+	url = git@github.com:openhwgroup/core-v-verif.git
+[submodule "designs/ISP_UVM"]
+	path = designs/ISP_UVM
+	url = git@github.com:nelsoncsc/ISP_UVM.git
